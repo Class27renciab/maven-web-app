@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Maeva Technologies Releases Nexus Repository</name>
+	      <name>Rencia Technologies Releases Nexus Repository</name>
 	      <url>http://184.73.136.171:7777/repository/TD-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Maeva Technologies Snapshot Nexus Repository </name>
+	      <name>Rencia Technologies Snapshot Nexus Repository </name>
 	      <url>http://184.73.136.171:7777/repository/TD-snapshot/</url>
 	    </snapshotRepository>
 	    
